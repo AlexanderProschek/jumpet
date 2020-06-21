@@ -1,5 +1,6 @@
 # Jumpet
 An example package to test npm, Mocha and Chai
+
 Written by Alexander Proschek
 
 ## Installation and usage for NodeJS
